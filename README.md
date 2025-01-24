@@ -41,6 +41,7 @@ A Python script demonstrating a secure and scalable approach to user authenticat
 ### **Tools and Technologies**
 - **Functionality**: Implements secure practices for password storage and authentication workflows.
 
+### **How to Use**
 1. Run the script.
 2. Follow the prompts to add, edit, or view users and password so you can authenticate afterwards 
 
